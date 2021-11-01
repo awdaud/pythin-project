@@ -10,5 +10,5 @@ def home():
 def salvador():
     return "Hello, Salvador"
     
-if __name__ == "__main__":
+if __name__ == "__lab_":
     app.run(debug=True)
